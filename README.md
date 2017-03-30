@@ -38,4 +38,4 @@ ThemeStyle.matchThemeColor('div.jimu-widget-header-controller', 'div.rental-dens
 ], '.jimu-btn');
 
 ```
-[![ScreenShot](https://raw.githubusercontent.com/CalebM1987/CalebM1987.github.io/master/images/themestyle.PNG)](https://github.com/CalebM1987/CalebM1987.github.io/blob/master/video/ThemeStyle.mp4)
+[![ScreenShot](https://raw.githubusercontent.com/CalebM1987/CalebM1987.github.io/master/images/themestyle.PNG)](https://youtu.be/5qsG9CT8Whc)
