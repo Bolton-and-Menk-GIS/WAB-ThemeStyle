@@ -40,4 +40,6 @@ ThemeStyle.matchThemeColor('div.jimu-widget-header-controller', 'div.rental-dens
 ```
 
 Click on thumbnail below to see video:
+
+
 [![ScreenShot](https://raw.githubusercontent.com/CalebM1987/CalebM1987.github.io/master/images/themestyle.PNG)](https://youtu.be/5qsG9CT8Whc)
