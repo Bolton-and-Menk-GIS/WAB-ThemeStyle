@@ -6,15 +6,15 @@ This module has two functions, one to match the theme/color of an element, and a
 To match the style of a theme, specify the following parameters:
 
 ```
-    /* matches colors of a specific template element
-    *
-    * Arguments:
-    *  `templateElement` - css selector for the element that has the desired "background-color" css attribute (string)
-    *  `rootSelector` - parent node for which to apply color scheme to children (string)
-    *  `childSelectors` - array of css selectors for children to apply "background-color" css to [string, string, ...]
-    *  `buttonSelector` - (optional) css selector for buttons/elements for which to apply a hover event. The hover event
-    *                     creates animation to show the button with 70% opacity. (string)
-    */
+/* matches colors of a specific template element
+*
+* Arguments:
+*  `templateElement` - css selector for the element that has the desired "background-color" css attribute (string)
+*  `rootSelector` - parent node for which to apply color scheme to children (string)
+*  `childSelectors` - array of css selectors for children to apply "background-color" css to [string, string, ...]
+*  `buttonSelector` - (optional) css selector for buttons/elements for which to apply a hover event. The hover event
+*                     creates animation to show the button with 70% opacity. (string)
+*/
 ```
 
 The module can be loaded into a custom widget by placing the ThemeStyle.js file in the project folder and using the AMD loader like this:
